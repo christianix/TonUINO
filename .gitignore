@@ -32,3 +32,8 @@ Temporary Items
 
 # Eclipse IDE
 .project
+/sloeber.ino.cpp
+/Release/
+.cproject
+.settings/
+spec.d
